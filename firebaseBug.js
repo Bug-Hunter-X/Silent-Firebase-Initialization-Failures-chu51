@@ -1,0 +1,1 @@
+The Firebase SDKs sometimes silently fail to initialize properly, leading to seemingly random errors later in your application.  This can happen due to incorrect configuration (missing or incorrect `google-services.json` file, incorrect API keys) or network issues during initialization.
